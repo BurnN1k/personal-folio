@@ -47,7 +47,10 @@ p {
   min-height: 770px;
   position: relative;
 
-  background: #000 url(img/bg.jpg) center no-repeat;
+  background-color: #000;
+  background-image: url(../img/bg.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
   background-size: cover;
 }
 
